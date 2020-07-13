@@ -1,1 +1,3 @@
 insert query;
+update query;
+delete query;
