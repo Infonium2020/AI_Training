@@ -1,2 +1,4 @@
 insert query;
 update query;
+delete query;
+For branch code
